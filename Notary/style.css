@@ -1,0 +1,27 @@
+body{
+    background-color: #73C8A9;
+  
+  /* Gradient definition */
+  background: linear-gradient(to bottom, #73C8A9, #373B44);
+  
+    
+}
+.responsive{
+  max-width: 75%;
+  height: auto;
+
+}
+img{
+  padding: 15px;
+}
+.displayBox{
+  width:100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.scroll-box{
+  overflow-y:auto;
+  height: 500px;
+  float: left;
+  padding:lrem
+}
